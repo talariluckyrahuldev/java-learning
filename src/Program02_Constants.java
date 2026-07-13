@@ -13,6 +13,7 @@ public class Program02_Constants {
         System.out.println("PASSING_PERCENTAGE: " + PASSING_PERCENTAGE);
         System.out.println("UNIVERSITY_NAME: " + UNIVERSITY_NAME);
 
+
         //PI = 3.0;
 
         //NAMING CONVENTIONS
