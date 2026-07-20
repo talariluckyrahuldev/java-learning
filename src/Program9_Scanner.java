@@ -1,5 +1,5 @@
+import java.util.Scanner;
 public class Program9_Scanner {
-    import java.util.Scanner;
 
     public class Program12_Scanner {
 
