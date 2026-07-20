@@ -29,7 +29,7 @@ public class Program05_StringMethods {
         // =============================================
         System.out.println("\n=== SEARCHING ===");
         System.out.println("Sentence: " + sentence);
-        System.out.println("contains('Java'):        " + sentence.contains("Java"));
+        System.out.println("contains('Java'):        " + sentence.contains("Javascript"));
         System.out.println("contains('Python'):      " + sentence.contains("Python"));
         System.out.println("startsWith('Java'):      " + sentence.startsWith("Java"));
         System.out.println("endsWith('language'):    " + sentence.endsWith("language"));
